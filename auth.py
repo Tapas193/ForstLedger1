@@ -260,4 +260,5 @@ class AuthenticationSystem:
                             else:
                                 st.error("Invalid verification code")
                     else:
+
                         st.error(message)
